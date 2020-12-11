@@ -1,0 +1,14 @@
+baseURL = "http://life-with-bonnie.com/"
+languageCode = "en-us"
+title = "Life With Bonnie"
+theme = "ananke"
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+
+[params]
+site_logo = ""
+featured_image = "/images/threshold.jpg"
+background_color_class = "bg-blue"
