@@ -1,0 +1,16 @@
+baseURL = "http://life-with-bonnie.com/"
+languageCode = "en-us"
+title = "Life With Bonnie"
+theme = "ananke"
+
+
+banner = "images/staying_close.jpg"
+
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+
+
+[params]
+site_logo = ""
+background_color_class = "bg-gray"

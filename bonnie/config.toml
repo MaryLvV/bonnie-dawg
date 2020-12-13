@@ -1,14 +1,87 @@
+theme = "bento"
 baseURL = "http://life-with-bonnie.com/"
 languageCode = "en-us"
 title = "Life With Bonnie"
-theme = "ananke"
 
+author = "Mary"
+copyright = "Mary"
 
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+[taxonomies]
+category = "categories"
+tag = "tags"
 
+# Better code higlighting
+# via https://discourse.gohugo.io/t/pygmentscodefences-how-to-choose-themes/3842/3
+pygmentsCodefences = true
+pygmentsStyle = "vs"
+
+# Integrations
+#googleAnalytics = "UA-XXXXXX-YY"
+#disqusShortname = "bento-hugo-theme"
+
+# Hightlight theme
+[markup.highlight]
+  style = "github"
+
+# Allow HTML rendering inside markdown
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
-site_logo = ""
-featured_image = "/images/threshold.jpg"
-background_color_class = "bg-blue"
+  # Show intro in the home page (with headline and description)
+  intro = true
+  headline = "Bonnie is a dog"
+  description = "This site is dedicated to our life with Bonnie"
+
+  # Copyright note in the footer
+  copyright = "Copyright © 2020 Mary"
+
+  # Image in the homepage. You can setup a different image for social media
+  cover = "images/chill.jpg"
+  ogImage = "images/chill.jpg"
+
+  # Social media usernames
+  # github = "XXXX"
+  # twitter = "XXXX"
+  # linkedin = "https://linkedin.com/in/XXXX"
+  # email = "email@xxxx.com"
+
+  # Learn more about webmention 
+  # https://sebastiandedeyne.com/adding-webmentions-to-my-blog/
+  # webmention = ""
+  # productionBaseUrl is need if you want to receive webmentions in local environment
+  # productionBaseUrl = "https://yourwebsite.com"
+
+  # Avatar (shown in the homepage)
+  # avatar = "images/avatar.jpg"
+  # Bio is shown in the end of posts
+  authorBio = "Bonnie is a dog"
+
+# If you want to use fathom (https://usefathom.com) for analytics, add this section
+#[params.fathomAnalytics]
+#  siteID = "XXXXX"
+  # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
+#  serverURL = "analytics.example.com"
+
+# If you want to use umami (https://umami.is/) for analytics, add this section
+#[params.umami]
+#  siteID = "XXXXX"
+#  trackerScript = "//umami.example.com/umami.js"
+
+# Items in the top menu
+[menu]
+  [[menu.main]]
+      name = "Posts"
+      url = "/posts"
+      weight = 1
+
+  [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 1
+
+  [[menu.main]]
+      name = "Archives"
+      url = "/archives"
+      weight = 1
+
