@@ -11,4 +11,6 @@ hideComments = "true"
 hideSuggestions = "true"
 +++
 
-This site is about things
+This is our story and Bonnie's story. She was rescued by [Animal Rescue Corps](https://www.animalrescuecorps.org/) from a pet hoarder in Mississippi. She came to us by way of the [Nashville Humane Association](https://nashvillehumane.org/) just before Thanksgiving 2020. 
+
+![Bonnie](/images/threshold_small.jpg)

@@ -31,14 +31,15 @@ pygmentsStyle = "vs"
   # Show intro in the home page (with headline and description)
   intro = true
   headline = "Bonnie is a dog"
-  description = "This site is dedicated to our life with Bonnie"
+  description = "Bonnie left the shelter and came to our house just before Thanksgiving 2020"
 
   # Copyright note in the footer
   copyright = "Copyright © 2020 Mary"
 
   # Image in the homepage. You can setup a different image for social media
-  cover = "images/chill.jpg"
+  cover = "images/staying_close.jpg"
   ogImage = "images/chill.jpg"
+
 
   # Social media usernames
   # github = "XXXX"
