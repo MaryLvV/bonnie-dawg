@@ -12,6 +12,6 @@ We decided to take her home and had our exit meeting with the vet. That's when w
 
 Andy and I prepped the kitchen with gates, a crate and pad, food and water bowls, and a couple of toys. Bonnie wanted nothing to do with any of it. She spent the rest of Tuesday cowering by a gate. She wouldn't relieve herself when we took her outside. It was a long day, and we left her by that gate when we went to bed Tuesday night wondering what we were in for.  
 
-The next morning, she was lying in the crate! She spent most of the day in the craate, and within a few days was relaxed enough to chew on her kong toy!  
+The next morning, she was lying in the crate! She spent most of the day in the crate, and within a few days was relaxed enough to chew on her kong toy!  
 
 ![crate](/images/crate_bonnie.jpg)
